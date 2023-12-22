@@ -6,9 +6,9 @@ from langchain.llms import OpenAI
 from langchain.chains import ConversationChain
 from langchain.memory import ConversationBufferMemory
 
-st.set_page_config(page_title="Context aware chatbot")
+st.set_page_config(page_title="OpenAI chatbot")
 st.header('OpenAI Solutions')
-st.write('Enhancing Chatbot Interactions through Context Awareness')
+st.write('Different needs 1 Solution , Im here to assist you')
 
 class ContextChatbot:
 
